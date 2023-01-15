@@ -12,11 +12,7 @@ Skills:  HTML / CSS/JS/Laravel/Vue.js
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tanvirkabir47)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tanvirkabir47)  
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?tanvirkabir47" frameborder="0"></iframe>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvirkabir47&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tanvirkabir47)  
+ 
 
 ![GitHub metrics](https://metrics.lecoq.io/tanvirkabir47)  
 
