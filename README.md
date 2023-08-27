@@ -13,10 +13,7 @@ Skills:  HTML / CSS / Bootstrap / JavaScript
 - 🌱 I’m currently learning JavaScript & React JS
 - 📫 How to reach me: tanvirkabir47@gmail.com
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/tanvirkabir47" target="blank"></a>
-</p>
+
 
 
 
