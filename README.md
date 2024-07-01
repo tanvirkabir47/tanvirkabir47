@@ -7,10 +7,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirkabir47&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirkabir47" /> </p>
 
 
-Skills:  HTML / CSS / Bootstrap / JavaScript
+Skills:  HTML / CSS / Bootstrap / JavaScript / Python / Django 
 
 - 🔭 I’m currently working on Xemiron IT Solution 
-- 🌱 I’m currently learning JavaScript & React JS
+- 🌱 I’m currently learning Django Rest framework
 - 📫 How to reach me: tanvirkabir47@gmail.com
 
 
