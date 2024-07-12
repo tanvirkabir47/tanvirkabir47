@@ -15,7 +15,8 @@ Skills:  HTML / CSS / Bootstrap / JavaScript / Python / Django
 
 
 
+<br/>
 
-
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirkabir47&layout=compact)
 
   
