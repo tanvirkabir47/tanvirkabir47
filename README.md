@@ -12,14 +12,22 @@ Skills:  HTML / CSS / Bootstrap / JavaScript / Python / Django
 - 🔭 I’m currently working on Xemiron IT Solution 
 - 🌱 I’m currently learning Django Rest framework
 - 📫 How to reach me: tanvirkabir47@gmail.com
-
-
+- 🌐 My portfolio: <a href="https://tanvirkabir47.netlify.app">tanvirkabir47.netlify.app</a>
 
 <br/>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirkabir47&layout=compact)
+<br/>
+<br/>
+<br/>
 
 <a href="">
   <img width="100%"
-  src="https://camo.githubusercontent.com/508a88b16babb848881b487ecac058b82503ddc9c3807951ccabca058c124b10/68747470733a2f2f6269742e6c792f3464625275395a">
+  src="https://bit.ly/4dbRu9Z">
 </a>
+
+<br/>
+<br/>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=tanvirkabir47&show_icons=true&theme=radical&rank_icon=github" height=150  />
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirkabir47&layout=compact&theme=radical&langs_count=10" height=150 />
+</div>
