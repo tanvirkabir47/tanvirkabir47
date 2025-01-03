@@ -9,7 +9,7 @@
 
 Skills:  HTML / CSS / Bootstrap / JavaScript / Python / Django 
 
-- 🔭 I’m currently working on Xemiron IT Solution 
+- 🔭 I’m currently working on <a href="https://aisalesteams.com"> AISE Technologies LTD </a>
 - 🌱 I’m currently learning Django Rest framework
 - 📫 How to reach me: tanvirkabir47@gmail.com
 - 🌐 My portfolio: <a href="https://tanvirkabir47.netlify.app">tanvirkabir47.netlify.app</a>
